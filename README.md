@@ -1,29 +1,14 @@
-# React + TypeScript + Vite
+## DevJobs 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-Currently, two official plugins are available:
+- What is the purpose of this website?
+- Provide an analysis of the job market in 2023 to assist individuals in making informed career choices within the field of Data Jobs for the year 2024.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Dataset - [Download](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data)
 
-## Expanding the ESLint configuration
+**Features** : 
+- Lazy Loading
+- Search 
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+![image](https://github.com/BroLetsCodeIt/DevJobs/assets/113767803/69027517-2a09-4d8b-9e35-b9f54656cfe8)
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![image](https://github.com/BroLetsCodeIt/DevJobs/assets/113767803/a0f87a1c-e7fa-4a08-8b47-2341976fc6ac)
